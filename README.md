@@ -4,5 +4,7 @@
 
 Bien!
 
-Pe
+<<<<<<< HEAD
+
+Perfecto!
 
